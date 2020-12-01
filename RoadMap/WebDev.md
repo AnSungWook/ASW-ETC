@@ -5,6 +5,6 @@
 [출처 | https://github.com/kamranahmedse/developer-roadmap]  
 
 1. Internet  
-    a. [인터넷은 어떻게 동작되는가?](internet.md)
-    b. [HTTP란 무엇인가?](http.md)
+    a. [인터넷은 어떻게 동작되는가?](internet.md). 
+    b. [HTTP란 무엇인가?](http.md). 
     
