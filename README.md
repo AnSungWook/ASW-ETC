@@ -5,3 +5,5 @@
 ##### :point_right:  개인적인 공부
  - [Road Map](RoadMap/WebDev.md)
 
+##### :point_right:  이론
+ - [DDD란?](Note/DDD.md)
