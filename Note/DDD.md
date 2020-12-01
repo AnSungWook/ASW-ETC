@@ -199,4 +199,4 @@ public class DeliveryCompleteService() {
 
 ----
 > 출처 
-- [https://medium.com/myrealtrip-product/what-is-domain-driven-design-f6fd54051590K - 도메인 주도 설계로 소프트웨어 만들기](https://medium.com/myrealtrip-product/what-is-domain-driven-design-f6fd54051590K)  
+- [https://medium.com/myrealtrip-product/what-is-domain-driven-design-f6fd54051590 - 도메인 주도 설계로 소프트웨어 만들기](https://medium.com/myrealtrip-product/what-is-domain-driven-design-f6fd54051590)  
