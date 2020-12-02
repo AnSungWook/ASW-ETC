@@ -57,7 +57,7 @@
 
 <div align="center">
     <img src="./images/rendering.png"/>
-    <span style="font-size:13px">렌더링 엔진 기본 흐름</span>
+    <p style="font-size:13px">렌더링 엔진 기본 흐름</p>
 </div>
 
 - HTML 문서의 정보를 구문 분석하고 요소를 `"content tree"` 또는 `"DOM tree"`로 변환함
