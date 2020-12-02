@@ -23,9 +23,9 @@
 
 - `해결하고자 하는 문제 영역`
 
-<div align="center">
+<div align="center" style="margin-bottom:10px;">
     <img src="./images/online_shopping_domains.png" />
-    <p style="font-size:13px">온라인 쇼핑 도메인과 하위 도메인들</p>
+    <p style="font-size:13px;color=gray;">온라인 쇼핑 도메인과 하위 도메인들</p>
 </div>
  
 - 도메인을 나누는 기준은 절대적인 기준이 아님
