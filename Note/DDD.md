@@ -25,7 +25,7 @@
 
 <div align="center">
     <img src="./images/online_shopping_domains.png" />
-    <span style="font-size:13px">온라인 쇼핑 도메인과 하위 도메인들</span>
+    <p style="font-size:13px">온라인 쇼핑 도메인과 하위 도메인들</p>
 </div>
  
 - 도메인을 나누는 기준은 절대적인 기준이 아님
@@ -102,7 +102,7 @@ public class DeliveryCompleteService() {
 
 <div align="center">
     <img src="./images/aggregate.png" />
-    <span style="font-size:13px">도메인 객체들을 애그리거트로 묶기</span>
+    <p style="font-size:13px">도메인 객체들을 애그리거트로 묶기</p>
 </div>
 
 - 하나의 애그리거트에 포함된 객체들은 도메인 규칙과 요구사항에 따라 함께 취급
@@ -116,7 +116,7 @@ public class DeliveryCompleteService() {
 
 <div align="center">
     <img src="./images/aggregate-root.png" />
-    <span style="font-size:13px">애그리거트 루트</span>
+    <p style="font-size:13px">애그리거트 루트</p>
 </div>
 
 #### 계층형 아키텍처(Layered Architecture)
@@ -139,7 +139,7 @@ public class DeliveryCompleteService() {
 
 <div align="center">
     <img src="./images/layered_architecture.jpeg" />
-    <span style="font-size:13px">계층형 아키텍처</span>
+    <p style="font-size:13px">계층형 아키텍처</p>
 </div>  
 
 - 계층형 아키텍처에서는 일반적으로 상위 계층이 하위 계층에 의존
@@ -168,7 +168,7 @@ public class DeliveryCompleteService() {
 
 <div align="center">
     <img src="./images/lowmodule.png" />
-    <span style="font-size:13px">저수준 관점에서 인터페이스를 도출 하면 안됨</span>
+    <p style="font-size:13px">저수준 관점에서 인터페이스를 도출 하면 안됨</p>
 </div>  
 
 #### 응용서비스(Application Service)
