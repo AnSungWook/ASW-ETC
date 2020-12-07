@@ -8,3 +8,4 @@
 - [HTTP란 무엇인가?](http.md).  
 - [브라우저는 어떻게 동작하는가?](browers.md).  
 - [DNS는 어떻게 동작하는가?](dns.md).
+- [Hosting 이란 무엇인가?](hosting.md).
