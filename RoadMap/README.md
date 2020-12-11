@@ -7,7 +7,7 @@
 
 - [인터넷은 어떻게 동작되는가?](./Internet/internet.md).  
 - [HTTP란 무엇인가?](./Internet/http.md).  
-- [브라우저는 어떻게 동작하는가?](browers.md).  
+- [브라우저는 어떻게 동작하는가?](./Internet/browers.md).  
 - [DNS는 어떻게 동작하는가?](./Internet/dns.md).
 - [Hosting 이란 무엇인가?](./Internet/hosting.md).
 
