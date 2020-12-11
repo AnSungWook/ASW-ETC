@@ -11,7 +11,7 @@
 #### 브라우저의 고급 아키텍처
 
 <div align="center">
-    <img src="./images/High-level_architecture_of_browser.png" width="100%" />
+    <img src="../images/High-level_architecture_of_browser.png" width="100%" />
     <span style="font-size:13px">브라우저 주요 구성요소</span>
 </div>
 
@@ -56,7 +56,7 @@
 - 네트워크 계층은 요청 된 문서의 정보를 8KB 단위로 렌더링 엔진에 보냄
 
 <div align="center">
-    <img src="./images/rendering.png"/>
+    <img src="../images/rendering.png"/>
     <p style="font-size:13px">렌더링 엔진 기본 흐름</p>
 </div>
 
