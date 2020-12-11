@@ -23,10 +23,10 @@
 #### DNS가 동작하는 원리
 
 <div align="center">
-    <img src="./images/dns1.gif"/>
+    <img src="../images/dns1.gif"/>
 </div>
 <div align="center">
-    <img src="./images/dns2.gif"/>
+    <img src="../images/dns2.gif"/>
 </div>
 
 1. 사용자가 브러우저에서 www.naver.com를 입력함, PC는 미리 설정되어 있는 DNS(단말에 설정되어 있는 이 DNS를 Local DNS라 부름, 1의 사진에서는 203.248.252.2) 에게 "www.naver.com"라는 "hostname"에 대한 IP 주소를 요청
@@ -34,7 +34,7 @@
 3. Local DNS는 이제 "www.naver.com"의 IP 주소를 찾아내기 위해 다른 DNS 서버들과 통신(DNS 메시지)를 시작, Local DNS는 Root DNS에 요청함. 루트 도메인은 아래와 같은 식으로 구성 됨
 
 <div align="center">
-    <img src="./images/domain_tree.png"/>
+    <img src="../images/domain_tree.png"/>
     <p>도메인 명칭 시스템 계층도</p>
     <p style="font-size:10px; color:gray;">DNS 는 각각 이름이 부여된 도메인(domain)이라는 노드(node)로 구성된 트리 구조(tree structure)로 설계되어 있다. 트리의 최상위 노드는 DNS 루트 도메인(DNS root domain)이다. 그 아래에 .com, .edu,, .gov, .mil 같은 하위 도메인(sub domain)들이 존재한다.
     </p>

@@ -4,7 +4,7 @@
 - 표준 웹 기술이라는 레이어 케이크에서 세번째 층이라고 볼 수 있음
 
 <div align="center">
-    <img src="./images/layer_cake.png"/>
+    <img src="../images/layer_cake.png"/>
     <p style="font-size:13px; color:gray;">레이어 케이크</p>
 </div>
 
@@ -19,7 +19,7 @@
 ```
 
 <div align="center">
-    <img src="./images/javascript_html_01.png"/>
+    <img src="../images/javascript_html_01.png"/>
 </div>
 
 2. CSS를 추가하여 예쁘게 꾸밀 수 있음
@@ -42,7 +42,7 @@ p {
 ```
 
 <div align="center">
-    <img src="./images/javascript_css_01.png"/>
+    <img src="../images/javascript_css_01.png"/>
 </div>
 
 3. 자바스크립트로 동적인 기능을 추가 할 수 있음

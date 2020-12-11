@@ -9,7 +9,7 @@
 - 월드 와이드 웹은 웹클라이언트와 웹 서버 간의 통신에 관한 것
 
 <div align="center">
-    <img src="./images/www.png">
+    <img src="../images/www.png">
 </div>
 
 #### HTTP Req/Res

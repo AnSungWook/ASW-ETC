@@ -11,14 +11,14 @@
 - 위와 같은 문제를 해결하기 위해 `라우터`라는 특수한 소형 컴퓨터를 사용
 
 <div align="center">
-  <img src="./images/router.png">
+  <img src="../images/router.png">
 </div>
 
 - 하지만 네트워크 확장을 점점 더 하게 된다면 `단일 라우터`로는 감당하기 어려움
 - 그래서 `라우터`와 `라우터`를 서로 연결할 수 있음
 
 <div align="center">
-  <img src="./images/router_to_router.png">
+  <img src="../images/router_to_router.png">
 </div>
 
 - 하지만 근교가 아닌 먼 지역과 통신을 해야 한다면 어떻게 해야함?
@@ -29,10 +29,10 @@
 (한국에서는 `KT`, `SK`, `LG`로 볼 수 있음)
 
 <div align="center">
-  <img src="./images/router_to_isp1.png">
+  <img src="../images/router_to_isp1.png">
 </div>
 <div align="center">
-  <img src="./images/router_to_isp2.png">
+  <img src="../images/router_to_isp2.png">
 </div>
 
 > 인터넷은 수십억대의 컴퓨터를 연결하는 기술 인프라

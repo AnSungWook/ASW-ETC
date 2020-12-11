@@ -32,7 +32,7 @@
 #### 웹 호스팅의 유형
 
 <div>
-    <img src="./images/hosting_shared.png" width="50px;" height="50px;"/>
+    <img src="../images/hosting_shared.png" width="50px;" height="50px;"/>
 </div>
 
 - 공유 호스팅
@@ -42,7 +42,7 @@
   - 개인 웹사이트, 중소기업 웹사이트에 가장 적합
 
 <div>
-    <img src="./images/hosting_vps.png" width="50px;" height="50px;"/>
+    <img src="../images/hosting_vps.png" width="50px;" height="50px;"/>
 </div>
 
 - VPS 호스팅
@@ -52,7 +52,7 @@
   - VPS는 높은 비용을 수반하지 않고 전용 서버를 보유하는 유연성을 원하는 소규모 웹사이트 및 조직에서 사용됨
 
 <div>
-    <img src="./images/hosting_dedicated.png" width="50px;" height="50px;"/>
+    <img src="../images/hosting_dedicated.png" width="50px;" height="50px;"/>
 </div>
 
 - 전용 호스팅
@@ -62,7 +62,7 @@
   - 모든 시스템을 통제하기 때문에 유연한 배치가 가능하지만 그렇게 때문에 기술적인 전문지식이 존재해야 함
 
 <div>
-    <img src="./images/hosting_cloud.png" width="50px;" height="50px;"/>
+    <img src="../images/hosting_cloud.png" width="50px;" height="50px;"/>
 </div>
 
 - 클라우드 호스팅
@@ -73,7 +73,7 @@
   - 하지만 전용서버 보다 더 높은 비용을 부담할 수 있음
 
 <div>
-    <img src="./images/hosting_reseller.png" width="50px;" height="50px;"/>
+    <img src="../images/hosting_reseller.png" width="50px;" height="50px;"/>
 </div>
 
 - 리셀러 호스팅
