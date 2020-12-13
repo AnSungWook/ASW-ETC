@@ -17,6 +17,10 @@
 - [CSS란?](./BasicFrontendKnowledge/css.md).
 - [JavaScript란?](./BasicFrontendKnowledge/javascript.md).
 
+#### :point_right:  OS and General Knowledge
+
+- [터미널이란?](./OSandGeneralKnowledge/terminal_usage.md)
+
 ---
 
 > 출처
