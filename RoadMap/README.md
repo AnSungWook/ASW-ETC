@@ -20,7 +20,7 @@
 #### :point_right:  OS and General Knowledge
 
 - [터미널이란?](./OSandGeneralKnowledge/terminal_usage.md)
-- [오픈 소프트웨어는 어떻게 동작하는가?](./OSandGeneralKnowledge/oss.md)
+- [오픈소프트웨어는 어떻게 동작하는가?](./OSandGeneralKnowledge/oss.md)
 
 ---
 
