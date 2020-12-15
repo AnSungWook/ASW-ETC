@@ -1,4 +1,4 @@
-# DDD Start! ( 저자 : 최범균 )
+# DDD Start!
 
 <div align="center">
     <img src="./images/ddd_book_image1.jpg" />
