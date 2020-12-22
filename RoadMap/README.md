@@ -22,6 +22,7 @@
 - [터미널이란?](./OSandGeneralKnowledge/terminal_usage.md)
 - [오픈소프트웨어는 어떻게 동작하는가?](./OSandGeneralKnowledge/oss.md)
 - [프로세스 관리란?](./OSandGeneralKnowledge/process_management.md)
+- [쓰레드와 병행성](./OSandGeneralKnowledge/threads_concurrency.md)
 
 ---
 
