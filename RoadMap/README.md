@@ -23,6 +23,7 @@
 - [오픈소프트웨어는 어떻게 동작하는가?](./OSandGeneralKnowledge/oss.md)
 - [프로세스 관리란?](./OSandGeneralKnowledge/process_management.md)
 - [쓰레드와 병행성](./OSandGeneralKnowledge/threads_concurrency.md)
+- [기본적인 터미널 명령어](./OSandGeneralKnowledge/basic_terminal_command.md)
 
 ---
 
