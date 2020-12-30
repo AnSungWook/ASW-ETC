@@ -25,6 +25,7 @@
 - [쓰레드와 병행성](./OSandGeneralKnowledge/threads_concurrency.md)
 - [기본적인 터미널 명령어](./OSandGeneralKnowledge/basic_terminal_command.md)
 - [메모리 관리](./OSandGeneralKnowledge/memory_management.md)
+- [inter process communication(IPC)](./OSandGeneralKnowledge/interprocess_communication.md)
 
 ---
 
