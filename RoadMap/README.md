@@ -27,6 +27,7 @@
 - [메모리 관리](./OSandGeneralKnowledge/memory_management.md)
 - [프로세스간 통신(IPC)](./OSandGeneralKnowledge/interprocess_communication.md)
 - [I/O management](./OSandGeneralKnowledge/io_management.md)
+- [POSIX - 정규표현식](./OSandGeneralKnowledge/posix_basic.md)
 
 ---
 
