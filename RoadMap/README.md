@@ -28,6 +28,7 @@
 - [프로세스간 통신(IPC)](./OSandGeneralKnowledge/interprocess_communication.md)
 - [I/O management](./OSandGeneralKnowledge/io_management.md)
 - [POSIX - 정규표현식](./OSandGeneralKnowledge/posix_basic.md)
+- [기본적인 네트워크 개념](./OSandGeneralKnowledge/basic_network_concepts.md)
 
 ---
 
