@@ -74,6 +74,16 @@
 
 > 현대적인 예시는 `BitTorrent`, 나중에 IOT에서 더 인기를 끌 수 있는 네트워크 모델링
 
+#### Client Server
+
+- 클라이언트 서버 네트워크에서 서버는 파일 서버, 도메인 컨트롤러, 웹 서버 등과 같은 특별한 역할을 가짐
+- 클라이언트는 적절한 서비스를 사용하기 위해 서버에 연결
+- 보통 웹, 인터넷 그리고 현대의 대형 Windows 네트워크에서 사용되는 네트워킹 모델
+
+<div align="center">
+    <img src="../images/client-server-networking.jpg"/>
+    <p style="font-size:13px; color:gray;">Client Server Networking Model</p>
+</div>
 
 ---
 
