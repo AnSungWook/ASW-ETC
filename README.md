@@ -1,4 +1,4 @@
-# OnceADayWrite
+# ETC
 
 개인적으로 공부를 하기 위한 git 저장소입니다.
 
