@@ -15,4 +15,4 @@
 
 - KOTLIN
   - [Stream-Collect](Learn/Stream-Collect.md)
-  - [Vararg-가변인자](Learn/Vararg.md)
+  - [Vararg-가변인자](Learn/Varargs.md)
