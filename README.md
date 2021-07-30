@@ -13,6 +13,12 @@
 
 ##### :point_right: Learn Up
 
+- JAVA
+  - [simple json 사용 중 Null 이슈](Learn/simple_json_nul_exception.md)
+
 - KOTLIN
-  - [Stream-Collect](Learn/Stream-Collect.md)
-  - [Vararg-가변인자](Learn/Varargs.md)
+  - [Stream-Collect](Learn/stream_collect.md)
+  - [Vararg-가변인자](Learn/varargs.md)
+
+- JAVASCRIPT
+  - [computed property](Learn/computed_property.md)

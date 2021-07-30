@@ -3,9 +3,9 @@
 ## 현상
 
 - 데이터를 JSONObject 로 변경 후 데이터를 읽어오는 과정에서 이슈가 발생
-  - Map 데이터를 JSONObject 로 변환
-  - 변환된 JSONObject 에서 .get 메소드를 활용해 value를 추출
-  - 읽던 도중 NullPointException 발생
+- Map 데이터를 JSONObject 로 변환
+- 변환된 JSONObject 에서 .get 메소드를 활용해 value를 추출
+- 읽던 도중 NullPointException 발생
 
 ## 원인
 
