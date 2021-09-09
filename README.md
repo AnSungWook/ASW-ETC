@@ -13,6 +13,9 @@
 
 ##### :point_right: Learn Up
 
+- GIT 
+  - [Git 커밋 전에 커밋 메시지 수정하기](Learn/git_prepare_commit_msg.md)
+
 - JAVA
   - [simple json 사용 중 Null 이슈](Learn/simple_json_nul_exception.md)
 
@@ -20,7 +23,6 @@
   - [Stream-Collect](Learn/stream_collect.md)
   - [Vararg-가변인자](Learn/varargs.md)
   - [ForEach에서 break, continue](Learn/kotlin_forEach_break.md)
-
 
 - JAVASCRIPT
   - 개념 공부 하기 좋은 사이트 > [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
