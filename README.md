@@ -13,8 +13,11 @@
 
 ##### :point_right: Learn Up
 
-- GIT 
+- GIT
   - [Git 커밋 전에 커밋 메시지 수정하기](Learn/git_prepare_commit_msg.md)
+
+- CSS
+  - [display:none 과 visibility:hidden 의 차이점](Learn/css_display_visibility.md)
 
 - JAVA
   - [simple json 사용 중 Null 이슈](Learn/simple_json_nul_exception.md)
