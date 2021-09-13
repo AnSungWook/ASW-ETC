@@ -1,15 +1,19 @@
 # Git - prepare-commit-msg
 
-- Git hook 에는 여러가지 기능들이 있음
-- 그 중 커밋전에 메시지를 커스텀 할 수 있게끔 하는 기능이 있음 prepare-commit-msg 임
+## 요구조건
+
+- Git hook
+- 커밋전에 메시지를 커스텀 할 수 있어야함
+- 해당 기능은 prepare-commit-msg
 
 ## 사용법
 
-- 해당 프로젝트의 폴더로 이동 
-- .git > hooks 로 이동 
+- 해당 프로젝트의 폴더로 이동
+- .git > hooks 로 이동
 - **가끔 hooks 폴더가 없을 경우가 있으니 직접 만들어도 됨**
-- .git/hooks/prepare-commit-msg 를 작성 
+- .git/hooks/prepare-commit-msg 를 작성
 - *예시 ( 자동으로 브랜치명 붙이기 )*
+
 ```shellscript
 #!/bin/sh
 #
